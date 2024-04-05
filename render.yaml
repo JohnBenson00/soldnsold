@@ -1,0 +1,12 @@
+# Exported from Render on 2024-04-05T08:41:56Z
+databases:
+- name: soldnsold
+  databaseName: soldnsold
+  user: soldnsold_user
+  plan: free
+  region: frankfurt
+  ipAllowList:
+  - source: 0.0.0.0/0
+    description: everywhere
+  postgresMajorVersion: "16"
+version: "1"
